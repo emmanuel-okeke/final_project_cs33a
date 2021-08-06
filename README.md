@@ -1,3 +1,6 @@
+Github URL: https://github.com/emmanuel-okeke/final_project_cs33a
+
+
 HOW TO SET UP THE PROJECT.
 
 1. Make sure you have python3 installed on your computer :)
